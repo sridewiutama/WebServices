@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <ws>
+        <Id_Pelanggan>12</Id_Pelanggan>
+        <Nama_Pelanggan>Novi Fazriah</Nama_Pelanggan>
+        <Alamat>Pagerageng</Alamat>
+        <Email>novipazriah23@gmail.com</Email>
+        <No_Telepon>089789000897</No_Telepon>
+    </ws>
+     <ws>
+        <Id_Pelanggan>2</Id_Pelanggan>
+        <Nama_Pelanggan>Irena Kusuma Dewi</Nama_Pelanggan>
+        <Alamat>Paseh</Alamat>
+        <Email>irena@gmail.com </Email>
+        <No_Telepon>089789000894</No_Telepon>
+    </ws>
+    <ws>
+        <Id_Pelanggan>5</Id_Pelanggan>
+        <Nama_Pelanggan>Galang</Nama_Pelanggan>
+        <Alamat>Cibinong</Alamat>
+        <Email>galang@gmail.com </Email>
+        <No_Telepon>089799000894</No_Telepon>
+     </ws>
+      <ws>
+       <Id_Pelanggan>6</Id_Pelanggan>
+        <Nama_Pelanggan>Evan</Nama_Pelanggan>
+        <Alamat>Ciputat</Alamat>
+        <Email>evan@gmail.com </Email>
+        <No_Telepon>089799000804</No_Telepon>
+     </ws>
+</data>
